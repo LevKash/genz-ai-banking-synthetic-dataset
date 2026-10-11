@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Synthetic Gen Z Banking-Experience Dataset — AI Chatbots & Robo-Advisors in Kazakhstan & Central Asia"
+abstract: >-
+  Complete synthetic-participant corpus (20 evidence-based Gen Z personas ×
+  3 large language models × 3 repetitions × 15 interview questions) generated
+  for a mixed human-synthetic MSc dissertation testing whether LLM-simulated
+  respondents can substitute for real survey participants. Synthetic data
+  reproduces thematic content but not the response distribution.
+authors:
+  - family-names: "Kashkin"
+    given-names: "Lev"
+    orcid: ""            # add if available
+    affiliation: "CITY College, University of York Europe Campus"
+contact:
+  - family-names: "Kashkin"
+    given-names: "Lev"
+    email: "contact@levkashkin.eu"
+type: dataset
+version: "1.0.0"
+date-released: "2026-11-30"
+license: "CC-BY-4.0"
+keywords:
+  - synthetic participants
+  - large language models
+  - Gen Z
+  - digital banking
+  - chatbots
+  - robo-advisors
+  - Kazakhstan
+  - Central Asia
+  - survey simulation
+repository-code: ""      # filled when the GitHub repo is live
+url: ""                   # filled when the repo URL is live

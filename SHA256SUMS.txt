@@ -1,0 +1,12 @@
+# SHA-256 checksums — Lev Kashkin MSc dissertation synthetic dataset
+# Generated: 2026-10-11
+
+70bd200f465aa17495627becaca50d492cb23d1f5ed83e3190e3915bff969739  CITATION.cff
+d28626b073bcc0eed232f8c377cff500f4717d4b267b0cfa9569679b8e8b79bd  DATASET.md
+9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411  LICENSE
+dd78c6e31617b3c8ffde6c1b4e15c2c586348033468610434f76131804f01214  METADATA.md
+aa9b707e632c2d7fa861eeb41576c143f7ac4efdd870fca975048a97dd5e2848  README.md
+19bf399d7da607b4f261b3d85b45fd68adcb7a37210757ea1b8e3a7987638684  synthetic-responses-M1-pilot.csv
+b5bff592daa6c4f7ef59adb238d8f92484c5a82aafb104e9f8e3705b50f3eea4  synthetic-responses-M1-pilot.json
+4d33b01d6940be40aef393864a82caa05ba716e56263a8994967e3455baf91f5  synthetic-responses-M2.csv
+ce1285347ec0c28cb29b365d304bf9c94e924ddb299e4b5b2243d930ed0cfa45  synthetic-responses-M2.json
