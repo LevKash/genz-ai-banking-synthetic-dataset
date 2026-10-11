@@ -30,5 +30,5 @@ keywords:
   - Kazakhstan
   - Central Asia
   - survey simulation
-repository-code: ""      # filled when the GitHub repo is live
-url: ""                   # filled when the repo URL is live
+repository-code: "https://github.com/LevKash/genz-ai-banking-synthetic-dataset"
+url: "https://github.com/LevKash/genz-ai-banking-synthetic-dataset"
